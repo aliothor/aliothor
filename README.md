@@ -24,7 +24,7 @@
 ![Rust Badge](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=flat)
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
-![OPENGL Badge](https://img.shields.io/badge/OpenGL-fff?logo=OpenGL&logoColor=5684a1&style=flat)
+![WebGL Badge](https://img.shields.io/badge/WebGL-fff?logo=WebGL&logoColor=5684a1&style=flat)
 ![WebGPU Badge](https://img.shields.io/badge/WebGPU-5684a1?logo=WebGPU&logoColor=fff&style=flat)
 
 🧰 常用的工具
@@ -37,7 +37,7 @@
 
 <!-- programming tool icon 编程工具图标 -->
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,cs,rust,wasm,vue,react,vite,threejs,docker" /><br>
+<img src="https://skillicons.dev/icons?i=js,ts,rust,python,cs,wasm,vue,react,nodejs,vite,threejs,tauri,postgres,docker" /><br>
 
 <!-- svg -->
 <!-- <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
