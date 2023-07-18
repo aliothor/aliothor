@@ -24,8 +24,6 @@
 ![Rust Badge](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=flat)
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
-![C Sharp Badge](https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=flat)
-![Three.js Badge](https://img.shields.io/badge/Three.js-092E20?logo=threedotjs&logoColor=fff&style=flat)
 ![OPENGL Badge](https://img.shields.io/badge/OpenGL-fff?logo=OpenGL&logoColor=5684a1&style=flat)
 ![WebGPU Badge](https://img.shields.io/badge/WebGPU-5684a1?logo=WebGPU&logoColor=fff&style=flat)
 
@@ -39,17 +37,17 @@
 
 <!-- programming tool icon 编程工具图标 -->
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,cs,rust,wasm,vue,react,vite,webgl" /><br>
+<img src="https://skillicons.dev/icons?i=js,ts,python,cs,rust,wasm,vue,react,vite,threejs,docker" /><br>
 
 <!-- svg -->
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+<!-- <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" /><br>
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" /><br>
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" /><br> -->
 
 <!-- just img 图片 -->
 <!-- <img src="https://cdn.jsdelivr.net/gh/aliothor/aliothor/assets/images/icon.png" /></div> -->
