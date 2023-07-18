@@ -19,7 +19,7 @@
 
 <!--  skill badge 技能徽章 -->
 
-🧠 研究方向
+🧠 我的研究方向
 
 ![Rust Badge](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=flat)
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
