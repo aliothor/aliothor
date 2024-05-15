@@ -1,6 +1,12 @@
-# aliothor
+<div align="center">
+Aliothor
+</div>
 
-## 🧊 我的项目
+## 👋 Hello, I'm Aliothor
+
+> **I am currently looking for a front-end development job. If you are interested, please feel free to contact me.**
+
+## 🧊 My Project
 
 - [vite-plugin-ol-external](https://github.com/aliothor/vite-plugin-ol-external) external openlayers package plugin for vite
 
@@ -10,7 +16,7 @@
 ---
 
 
-## 🧠 我的研究方向
+## 🧠 My Research Direction
 
 ![WebGL Badge](https://img.shields.io/badge/WebGL-fff?logo=WebGL&logoColor=5684a1&style=flat)
 ![WebGPU Badge](https://img.shields.io/badge/WebGPU-5684a1?logo=WebGPU&logoColor=fff&style=flat)
@@ -18,7 +24,7 @@
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
 
-## 🧰 常用的工具
+## 🧰 My Commonly Used Tools
 
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
