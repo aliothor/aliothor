@@ -28,7 +28,6 @@ Aliothor
 | [tinypool-example](https://github.com/aliothor/tinypool-example) | use tinypool lib example | - |
 | [web-worker-e2e-test](https://github.com/aliothor/web-worker-e2e-test) | use playwright test web worker code | - |
 | [cesium-martini](https://github.com/aliothor/cesium-martini) | Create cesium terrain through raster tile service | - |
-| [mtk-worker-pool](https://github.com/aliothor/mtk-worker-pool) | 从maptalks中提取web worker线程池实现代码 | - |
 | [tile-lnglat-transform-es6](https://github.com/aliothor/tile-lnglat-transform-es6) | 提供了高德、百度、谷歌、腾讯和必应地图的经纬度坐标与瓦片坐标的相互转换 | - |
 | [Windows-Install-Rust-Gdal-Tutorial](https://github.com/aliothor/Windows-Install-Rust-Gdal-Tutorial) | Windows Install Rust Version Gdal Steps | - |
 | [rust-ffi-example](https://github.com/aliothor/rust-ffi-example) | rust language ffi example | - |
